@@ -1,0 +1,24 @@
+.produto-moda, .tamanho-moda, .valor-moda {
+    background-color: #BB86FC;
+    color: #FFFFFF;
+    border: 0,5px solid #FFFFFF
+}
+
+
+.camiseta-moda, .m-moda, .preco-numerico-camiseta-moda, .tenis-moda, .tamanho-numerico-moda, .preco-numerico-moda {
+    background-color: #424250;
+    color: #FFFFFF;
+    border: 0,5px solid #FFFFFF
+}
+
+.produto-casa, .valor-casa {
+    background-color: #00C4B4;
+    color: #FFFFFF;
+    border: 0,5px solid #FFFFFF;
+}
+
+.sofa-casa, .preco-numerico-sofa-casa, .televisao-casa, .preco-numerico-tv-casa {
+    background-color: #424250;
+    color: #FFFFFF;
+    border: 0,5px solid #FFFFFF;
+}
